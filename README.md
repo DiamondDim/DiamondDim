@@ -1,16 +1,12 @@
-## Hi there 👋
+### Привет! Я Дмитрий 👋
+Python Backend Developer с сильным бэкграундом в промышленной инженерии и автоматизации.
 
-<!--
-**DiamondDim/DiamondDim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 **Мой стек:** Python, PostgreSQL, Django, DRF, Docker, Git.
+- 🌱 **Сейчас углубляю:** Веб-разработка (Django/DRF), контейнеризация.
+- 🏭 **Уникальный опыт:** 18 лет в производстве (ЧПУ, G-код, TURBOCNC). Умею переводить боли реального бизнеса и "железа" в работающий Python-код.
+- 📫 **Связь:** mecheny9180@gmail.com 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Избранные проекты
+- [S.A.T.S](https://github.com/DiamondDim/S.A.T.S_Sky_Airplane_Tracking_System) — Трекер самолетов в реальном времени (API OpenSky).
+- [ZP_automation](https://github.com/DiamondDim/ZP_automation_generation) — Автоматизация расчета ФОТ и сдельной оплаты труда.
+- [Bank Mask Project](https://github.com/DiamondDim/bank_mask_project) — Маскирование банковских данных, парсинг, логирование, тесты.
