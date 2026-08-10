@@ -9,4 +9,5 @@ Python Backend Developer с сильным бэкграундом в промы�
 ### 🛠 Избранные проекты
 - [S.A.T.S](https://github.com/DiamondDim/S.A.T.S_Sky_Airplane_Tracking_System) — Трекер самолетов в реальном времени (API OpenSky).
 - [ZP_automation](https://github.com/DiamondDim/ZP_automation_generation) — Автоматизация расчета ФОТ и сдельной оплаты труда.
+- [shopcore](https://github.com/DiamondDim/shopcore) — Ядро интернет-магазина на Python с использованием ООП.
 - [Bank Mask Project](https://github.com/DiamondDim/bank_mask_project) — Маскирование банковских данных, парсинг, логирование, тесты.
