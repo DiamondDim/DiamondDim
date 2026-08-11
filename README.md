@@ -4,7 +4,7 @@ Python Backend Developer с сильным бэкграундом в промы�
 - 🔭 **Мой стек:** Python, PostgreSQL, Django, DRF, Docker, Git.
 - 🌱 **Сейчас углубляю:** Веб-разработка (Django/DRF), контейнеризация.
 - 🏭 **Уникальный опыт:** 18 лет в производстве (ЧПУ, G-код, TURBOCNC). Умею переводить боли реального бизнеса и "железа" в работающий Python-код.
-- 📫 **Связь:** [mecheny9180@gmail.com](https://mail.google.com/) | [mecheny91@yandex.ru](https://mail.yandex.ru/)
+- 📫 **Связь:** [mecheny9180@gmail.com](https://mail.google.com/)target="_blank" | [mecheny91@yandex.ru](https://mail.yandex.ru/)target="_blank"
 
 ### 🛠 Избранные проекты
 - [S.A.T.S](https://github.com/DiamondDim/S.A.T.S_Sky_Airplane_Tracking_System) — Трекер самолетов в реальном времени (API OpenSky).
